@@ -7,4 +7,5 @@ This bash script automates the following tasks:
 
 * It takes 2 arguments at a given time, first argument being either one of <deploy|stop|restart> and second argument is the Python project code
 
-Usage ./python-deploy.sh <deploy|stop|restart> git-directory
+Usage:
+$ ./python-deploy.sh <deploy|stop|restart> git-directory
